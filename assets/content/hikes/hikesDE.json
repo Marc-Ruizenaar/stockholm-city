@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Djurgården",
+        "description": "Ein malerischer Spaziergang durch diesen üppigen Inselpark mit schönen Blicken auf das Wasser, Gärten und kulturellen Attraktionen wie dem Vasa-Museum und Skansen.",
+        "image": "../assets/images/hike.jpeg"
+    },
+    {
+        "name": "Sörmlandsleden",
+        "description": "Ein Fernwanderweg, der sich durch atemberaubende Landschaften mit Wäldern, Seen und Archipelen zieht, ideal für einen Tagesausflug oder ein Übernachtungsabenteuer."
+    },
+    {
+        "name": "Nacka Naturreservat",
+        "description": "Bietet eine Vielzahl von Wanderwegen durch ruhige Wälder und entlang felsiger Küsten, ideal für Wandern, Schwimmen und Naturgenuss, nur eine kurze Fahrt von der Stadt entfernt."
+    },
+    {
+        "name": "Kista Gård Naturreservat",
+        "description": "Ein ruhiges Gebiet mit markierten Wegen durch üppige Wälder, Felder und um einen malerischen Teich, perfekt für eine friedliche Flucht aus der Stadt."
+    },
+    {
+        "name": "Tyresta Nationalpark",
+        "description": "Ein geschütztes Gebiet mit alten Wäldern und einem Netzwerk gut markierter Wanderwege, ideal für Wanderungen und um die natürliche Schönheit Schwedens zu erleben."
+    },
+    {
+        "name": "Hagaparken",
+        "description": "Ein schöner Park mit Wanderwegen, historischen Gebäuden und herrlichen Ausblicken auf den See, perfekt für einen gemütlichen Spaziergang oder ein Picknick."
+    },
+    {
+        "name": "Långholmen",
+        "description": "Eine ruhige Insel im Mälaren mit Wegen und malerischen Ausblicken, einem Sandstrand und historischen Stätten, ideal für eine entspannende Tageswanderung."
+    },
+    {
+        "name": "Gröna Lund nach Skeppsholmen",
+        "description": "Ein malerischer Küstenspaziergang, der den Vergnügungspark mit der Insel Skeppsholmen verbindet und schöne Ausblicke auf den Hafen und die Skyline der Stadt bietet."
+    },
+    {
+        "name": "Skånegatan nach Monteliusvägen",
+        "description": "Eine charmante Stadtwanderung entlang der Monteliusvägen mit atemberaubenden Panoramablicken auf die Skyline von Stockholm und das Wasser."
+    },
+    {
+        "name": "Rosendals Trädgård",
+        "description": "Ein schöner Garten auf Djurgården mit Wanderwegen, Gewächshäusern und Cafébereichen, perfekt für einen entspannten Spaziergang und um saisonale Blüten zu genießen."
+    }
+]

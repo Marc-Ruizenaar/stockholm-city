@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Stockholm through my favorite places to visit!</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="main.css">
+
+    <link rel="icon" type="image/x-icon" href="/assets/icons/favicon.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap"
+        rel="stylesheet">
+
+    <meta name="description" content="Discover Stockholm through my favorite places to visit!">
+
+</head>
+
+<body id="homepage" class="">
+
+    <header class="container mx-auto px-5 py-5 flex items-center justify-between">
+        <a href="./index.html" class="relative z-[60]">
+            <p class="absolute text-sky-400 text-[0.8rem] top-[-12px]">
+                Explore
+            </p>
+            <p class="font-bold text-sky-900 text-2xl">
+                Stockholm city
+            </p>
+        </a>
+
+        <nav class="hidden md:flex gap-10 z-30">
+            <div class="group">
+                <a href="./pages/restaurants.html">Restaurants</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+
+            <div class="group">
+                <a href="./pages/museums.html">Museums</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+
+            <div class="group">
+                <a href="./pages/hikes.html">Hikes</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+        </nav>
+
+        <details id="language" class="hidden md:flex select-none">
+            <summary class="md:flex items-center justify-center gap-2 z-[60] cursor-pointer ">
+                English
+                <svg width="15px" height="15px" viewBox="0 0 48 48">
+                    <g id="Layer_2" data-name="Layer 2">
+                        <g id="invisible_box" data-name="invisible box">
+                            <rect width="48" height="48" fill="none" />
+                        </g>
+                        <g id="icons_Q2" data-name="icons Q2">
+                            <path
+                                d="M24,27.2,13.4,16.6a1.9,1.9,0,0,0-3,.2,2.1,2.1,0,0,0,.2,2.7l12,11.9a1.9,1.9,0,0,0,2.8,0l12-11.9a2.1,2.1,0,0,0,.2-2.7,1.9,1.9,0,0,0-3-.2Z" />
+                        </g>
+                    </g>
+                </svg>
+            </summary>
+
+            <div id="dropdown" class="bg-white h-20 w-screen absolute top-[70px] left-0 z-10">
+                <nav class="container mx-auto items-center flex gap-4 h-full">
+                    <p>Pick your language:</p>
+                    <a class="border-2 border-sky-400 rounded px-3 py-2 bg-sky-800 scale-110 text-white" href="./index.html">English</a>
+                    <a class="border-2 border-sky-400 rounded px-3 py-2" href="./nl/index.html">Nederlands</a>
+                </nav>
+            </div>
+
+        </details>
+
+        <details class="md:hidden">
+            <summary class="flex flex-col relative cursor-pointer z-[60] marker:content-[''] ">
+                <span class="w-5 h-[2px] bg-sky-800 mb-[3px]"></span>
+                <span class="w-5 h-[2px] bg-sky-800 mb-[3px]"></span>
+                <span class="w-5 h-[2px] bg-sky-800"></span>
+            </summary>
+
+            <div class="absolute inset-0 z-50">
+                <nav class="flex flex-col items-center justify-center bg-white w-screen h-screen gap-10">
+                    <a href="./en/restaurants.html">Restaurants</a>
+                    <a href="./en/museum.html">Museums</a>
+                    <a href="./en/hikes.html">Hikes</a>
+                </nav>
+            </div>
+        </details>
+    </header>
+
+
+    <section class="relative">
+
+        <div class="absolute bottom-0 md:bottom-[20%] left-0 md:left-5 ms:right-5 md:left-[5%] flex flex-col gap-3 p-5 rounded-tr-xl md:rounded bg-white z-30 group">
+            <h1 class="font-bold text-3xl md:text-4xl">Discover Stockholm</h1>
+            <p>Where are you waiting for? Come and join this amazing city!</p>
+            <div class="w-max">
+                <a href="#scroll-down" class="font-bold group-hover:text-sky-800 transition-all">Discover</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+
+
+        </div>
+
+        <a href="#scroll-down"
+            class="absolute bottom-0 left-1/2 transform -translate-x-1/2 rounded-t-xl bg-white p-5 z-10 w-max">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 0.5 13 12" width="20px">
+                <path fill="none" stroke="#0c4a6e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" d="M11.5 5.5l-5.5 6-5.5-6m5.5 6v-10" />
+            </svg>
+            <p class="sr-only">Scroll to content</p>
+        </a>
+
+        <video class="w-full h-[80vh] object-cover" src="./assets/videos/One Day in Stockholm .mp4" type="video/mp4"
+            loop autoplay muted preload="auto" tabindex="-1"></video>
+    </section>
+
+
+    <section id="scroll-down" class="container-sm mx-auto px-5 py-[100px] md:py-[200px]">
+        <h2 class="text-center font-bold text-3xl leading-[3rem] md:text-4xl md:leading-[4.2rem]">
+            Stockholm is the capital and most populous city of the Kingdom of Sweden as well as the largest urban area
+            in the Nordic countries.
+        </h2>
+
+    </section>
+
+
+    <section class="container-md mx-auto px-5 pb-10">
+        <div class="flex flex-col gap-5">
+            <h2 class="text-center text-4xl font-bold">Check out my favorate places</h2>
+            <p class="text-center mb-10">Don't worry none of these are promoted or pay me</p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-10 mt-5">
+
+            <a href="./pages/restaurants.html" class="cursor-pointer flex flex-col gap-5 group">
+                <div class="rounded-xl overflow-hidden aspect-ratio-1/1">
+                    <img class=" h-80 object-cover group-hover:scale-125 transition-transform duration-500"
+                        src="./assets/images/adobestock-belyaaa-stockholm-plan-general.jpg" alt="">
+                </div>
+                <h3 class="text-2xl font-bold">Restaurants</h3>
+                <p>My favorate hobby after sleeping, eating! Check out my picks here.</p>
+                <div class="w-max">
+                    <p href="" class="font-bold group-hover:text-sky-800 transition-all">Check restaurants</p>
+                    <span
+                        class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+
+                </div>
+            </a>
+
+            <a href="./pages/museums.html" class="cursor-pointer flex flex-col gap-5 group">
+                <div class="rounded-xl overflow-hidden aspect-ratio-1/1">
+                    <img class=" h-80 object-cover group-hover:scale-125 transition-transform duration-500"
+                        src="./assets/images/adobestock-belyaaa-stockholm-plan-general.jpg" alt="">
+                </div>
+                <h3 class="text-2xl font-bold">Museums</h3>
+                <p>My favorate hobby after sleeping, eating! Check out my picks here.</p>
+                <div class="w-max">
+                    <p href="" class="font-bold group-hover:text-sky-800 transition-all">Check museums</p>
+                    <span
+                        class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+
+                </div>
+            </a>
+
+            <a href="./pages/hikes.html" class="cursor-pointer flex flex-col gap-5 group">
+                <div class="rounded-xl overflow-hidden aspect-ratio-1/1">
+                    <img class=" h-80 object-cover group-hover:scale-125 transition-transform duration-500"
+                        src="./assets/images/adobestock-belyaaa-stockholm-plan-general.jpg" alt="">
+                </div>
+                <h3 class="text-2xl font-bold">Hikes</h3>
+                <p>My favorate hobby after sleeping, eating! Check out my picks here.</p>
+                <div class="w-max">
+                    <p class="font-bold group-hover:text-sky-800 transition-all">Check hikes</p>
+                    <span
+                        class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <section class="relative container-md mx-auto group mt-[80px]">
+        <div class="w-full h-[600px] overflow-hidden rounded-2xl transition-all">
+            <img class="object-cover h-full group-hover:scale-110 transition-all"
+                src="./assets/images/adobestock-belyaaa-stockholm-plan-general.jpg" alt="">
+        </div>
+        <div class="w-[95%] md:w-[60%] bg-white px-5 py-8 absolute flex flex-col gap-5 left-0 bottom-10 md:bottom-0 rounded-tr-2xl md:rounded-tr-2xl">
+            <h2 class="font-bold text-3xl">Top 10 restaurants</h2>
+            <p>Here are my favorate restaurants, i did not try all the restaurants. But i have been to many more
+                restaurants.</p>
+            <div class="w-max">
+                <a href="./pages/restaurants.html" class="font-bold group-hover:text-sky-800 transition-all">Check restaurants</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="container mx-auto mt-10 p-5 flex md:flex-row gap-5 flex-col justify-between relative w-full">
+
+        <a href="./index.html" class="relative z-30">
+            <p class="absolute text-sky-400 text-[0.8rem] top-[-12px]">
+                Explore
+            </p>
+            <p class="font-bold text-sky-900 text-2xl">
+                Stockholm city
+            </p>
+        </a>
+
+        <nav class="flex bg-white gap-10 text-nowrap">
+            <div class="group">
+                <a href="./pages/restaurants.html">Restaurants</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+
+            <div class="group">
+                <a href="./pages/museums.html">Museums</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+
+            <div class="group">
+                <a href="./pages/hikes.html">Hikes</a>
+                <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 h-0.5 bg-sky-400"></span>
+            </div>
+        </nav>
+
+        <p class="text-sm">Copyright Ⓒ 2024 Explore Stockholm city</p>
+
+    </footer>
+
+</body>
+
+</html>

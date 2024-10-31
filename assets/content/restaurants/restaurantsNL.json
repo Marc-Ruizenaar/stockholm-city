@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Frantzén",
+        "description": "Een restaurant met drie Michelinsterren dat innovatieve Noordse gerechten biedt met de nadruk op seizoensgebonden ingrediënten en artistieke presentatie.",
+        "image": "../assets/images/restaurant.jpg"
+    },
+    {
+        "name": "Smorgastarteriet",
+        "description": "Een gezellig plekje dat bekend staat om zijn creatieve benadering van Zweedse klassiekers, met een focus op lokaal geproduceerde ingrediënten en een warme sfeer."
+    },
+    {
+        "name": "Oaxen Slip",
+        "description": "Een Noordse bistro gelegen op Djurgården, met een boer-tot-bord-concept en een menu geïnspireerd door traditionele Scandinavische gerechten."
+    },
+    {
+        "name": "Vete-Katten",
+        "description": "Een historisch café en bakkerij die een heerlijke selectie van gebak, sandwiches en koffie biedt in een charmante, ouderwetse setting."
+    },
+    {
+        "name": "Pelikan",
+        "description": "Een klassiek Zweeds restaurant in Södermalm, bekend om zijn traditionele gerechten, waaronder haring, gehaktballen en een uitgebreide selectie aquavit."
+    },
+    {
+        "name": "Gildas Rum",
+        "description": "Een intieme eetervaring met de focus op seizoensgebonden ingrediënten en een constant veranderend menu dat Zweedse smaken viert."
+    },
+    {
+        "name": "Kåken",
+        "description": "Een trendy restaurant en bar bekend om zijn informele sfeer, waar een mix van Zweedse en internationale gerechten wordt geserveerd met een uitgebreide selectie drankjes."
+    },
+    {
+        "name": "Tradition",
+        "description": "Een restaurant gewijd aan het Zweedse culinaire erfgoed, met traditionele gerechten in een warme en gastvrije sfeer."
+    },
+    {
+        "name": "Nytorget 6",
+        "description": "Een populaire bistro in Södermalm, bekend om zijn levendige sfeer en een menu met verse, seizoensgebonden ingrediënten in een ontspannen setting."
+    },
+    {
+        "name": "Sushibar Ki-Mama",
+        "description": "Een hoog gewaardeerd sushi-restaurant dat verse en creatieve sushirollen, sashimi en een gezellige eetervaring biedt."
+    }
+]

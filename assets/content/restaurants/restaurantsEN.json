@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Frantzén",
+        "description": "A three-Michelin-starred restaurant offering innovative Nordic cuisine with an emphasis on seasonal ingredients and artistic presentation.",
+        "image": "../assets/images/restaurant.jpg"
+    },
+    {
+        "name": "Smorgastarteriet",
+        "description": "A cozy spot known for its creative take on Swedish classics, focusing on locally sourced ingredients and a warm atmosphere."
+    },
+    {
+        "name": "Oaxen Slip",
+        "description": "A Nordic bistro located on Djurgården, featuring a farm-to-table concept with a menu inspired by traditional Scandinavian dishes."
+    },
+    {
+        "name": "Vete-Katten",
+        "description": "A historic café and bakery offering a delightful selection of pastries, sandwiches, and coffee in a charming, old-world setting."
+    },
+    {
+        "name": "Pelikan",
+        "description": "A classic Swedish restaurant in Södermalm known for its traditional dishes, including herring, meatballs, and a great selection of aquavit."
+    },
+    {
+        "name": "Gildas Rum",
+        "description": "An intimate dining experience with a focus on seasonal ingredients and a constantly changing menu that celebrates Swedish flavors."
+    },
+    {
+        "name": "Kåken",
+        "description": "A trendy restaurant and bar known for its casual vibe, serving a mix of Swedish and international dishes with a great selection of drinks."
+    },
+    {
+        "name": "Tradition",
+        "description": "A restaurant dedicated to Swedish culinary heritage, offering traditional dishes in a warm and welcoming atmosphere."
+    },
+    {
+        "name": "Nytorget 6",
+        "description": "A popular bistro in Sodermalm known for its vibrant atmosphere and a menu featuring fresh, seasonal ingredients in a relaxed setting."
+    },
+    {
+        "name": "Sushibar Ki-Mama",
+        "description": "A highly-rated sushi spot offering fresh and creative sushi rolls, sashimi, and a cozy dining experience."
+    }
+]

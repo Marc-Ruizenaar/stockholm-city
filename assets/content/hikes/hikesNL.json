@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Djurgården",
+        "description": "Een schilderachtige wandeling door dit weelderige eilandpark, met prachtige uitzicht op het water, tuinen en culturele attracties zoals het Vasa Museum en Skansen.",
+        "image": "../assets/images/hike.jpeg"
+    },
+    {
+        "name": "Sörmlandsleden",
+        "description": "Een langeafstandspad dat zich door prachtige landschappen van bossen, meren en archipels slingert, perfect voor een dagwandeling of een avontuurlijke overnachting."
+    },
+    {
+        "name": "Nacka Natuurreservaat",
+        "description": "Biedt een verscheidenheid aan paden door serene bossen en langs rotsachtige kusten, ideaal voor wandelen, zwemmen en genieten van de natuur, slechts een korte rit van de stad."
+    },
+    {
+        "name": "Kista Gård Natuurreservaat",
+        "description": "Een rustige omgeving met gemarkeerde paden door weelderige bossen, velden en rond een pittoresk vijver, perfect voor een vredige ontsnapping uit de stad."
+    },
+    {
+        "name": "Tyresta Nationaal Park",
+        "description": "Een beschermd gebied met oude bossen en een netwerk van goed gemarkeerde paden, geweldig voor wandelen en het ervaren van de natuurlijke schoonheid van Zweden."
+    },
+    {
+        "name": "Hagaparken",
+        "description": "Een mooi park met wandelpaden, historische gebouwen en prachtige uitzichten op het meer, perfect voor een ontspannen wandeling of een picknick."
+    },
+    {
+        "name": "Långholmen",
+        "description": "Een serene eiland in het Mälaren-meer met paden met schilderachtige uitzichten, een zandstrand en historische locaties, ideaal voor een ontspannen dagswandeling."
+    },
+    {
+        "name": "Gröna Lund naar Skeppsholmen",
+        "description": "Een pittoreske kustwandeling die het attractiepark verbindt met het eiland Skeppsholmen, met prachtige uitzichten op de haven en de skyline van de stad."
+    },
+    {
+        "name": "Skånegatan naar Monteliusvägen",
+        "description": "Een charmante stedelijke wandeling langs Monteliusvägen, met adembenemende panoramische uitzichten op de skyline van Stockholm en het water."
+    },
+    {
+        "name": "Rosendals Trädgård",
+        "description": "Een mooie tuin op Djurgården met wandelpaden, kassen en cafégebieden, perfect voor een ontspannen wandeling en het genieten van seizoensgebonden bloei."
+    }
+]

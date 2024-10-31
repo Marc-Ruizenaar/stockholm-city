@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Djurgården Island",
+        "description": "A scenic walk through this lush island park, featuring beautiful waterfront views, gardens, and cultural attractions like the Vasa Museum and Skansen.",
+        "image": "../assets/images/hike.jpeg"
+    },
+    {
+        "name": "Sörmlandsleden Trail",
+        "description": "A long-distance trail stretching through stunning landscapes of forests, lakes, and archipelagos, perfect for a day hike or an overnight adventure."
+    },
+    {
+        "name": "Nacka Nature Reserve",
+        "description": "Offers a variety of trails through serene forests and along rocky coastlines, ideal for hiking, swimming, and enjoying nature just a short ride from the city."
+    },
+    {
+        "name": "Kista Gård Nature Reserve",
+        "description": "A tranquil area with marked trails through lush woodlands, fields, and around a picturesque pond, perfect for a peaceful escape from the city."
+    },
+    {
+        "name": "Tyresta National Park",
+        "description": "A protected area featuring old-growth forests and a network of well-marked trails, great for hiking and experiencing Sweden's natural beauty."
+    },
+    {
+        "name": "Hagaparken",
+        "description": "A beautiful park with walking paths, historical buildings, and lovely lake views, perfect for a leisurely stroll or a picnic."
+    },
+    {
+        "name": "Långholmen Island",
+        "description": "A serene island in Lake Mälaren offering trails with scenic views, a sandy beach, and historical sites, ideal for a relaxing day hike."
+    },
+    {
+        "name": "Gröna Lund to Skeppsholmen",
+        "description": "A picturesque coastal walk connecting the amusement park to the island of Skeppsholmen, featuring beautiful views of the harbor and city skyline."
+    },
+    {
+        "name": "Skånegatan to Monteliusvägen",
+        "description": "A charming urban hike along Monteliusvägen, offering stunning panoramic views of Stockholm's skyline and waterfront."
+    },
+    {
+        "name": "Rosendals Trädgård",
+        "description": "A lovely garden on Djurgården with walking paths, greenhouses, and café areas, perfect for a leisurely stroll and enjoying seasonal blooms."
+    }
+]

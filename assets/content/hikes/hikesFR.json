@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Île de Djurgården",
+        "description": "Une promenade pittoresque à travers ce parc insulaire luxuriant, offrant de belles vues sur l'eau, des jardins et des attractions culturelles comme le Musée Vasa et Skansen.",
+        "image": "../assets/images/hike.jpeg"
+    },
+    {
+        "name": "Sentier de Sörmlandsleden",
+        "description": "Un sentier de longue distance s'étendant à travers des paysages époustouflants de forêts, de lacs et d'archipels, parfait pour une randonnée d'une journée ou une aventure d'une nuit."
+    },
+    {
+        "name": "Réserve naturelle de Nacka",
+        "description": "Propose une variété de sentiers à travers des forêts sereines et le long de côtes rocheuses, idéal pour la randonnée, la baignade et profiter de la nature à quelques pas de la ville."
+    },
+    {
+        "name": "Réserve naturelle de Kista Gård",
+        "description": "Une zone tranquille avec des sentiers balisés à travers des bois verdoyants, des champs et autour d'un étang pittoresque, parfaite pour une escapade paisible loin de la ville."
+    },
+    {
+        "name": "Parc national de Tyresta",
+        "description": "Une zone protégée avec des forêts anciennes et un réseau de sentiers bien balisés, idéal pour la randonnée et découvrir la beauté naturelle de la Suède."
+    },
+    {
+        "name": "Hagaparken",
+        "description": "Un beau parc avec des chemins de promenade, des bâtiments historiques et de jolies vues sur le lac, parfait pour une promenade tranquille ou un pique-nique."
+    },
+    {
+        "name": "Île de Långholmen",
+        "description": "Une île sereine dans le lac Mälaren offrant des sentiers avec des vues panoramiques, une plage de sable et des sites historiques, idéale pour une randonnée d'une journée relaxante."
+    },
+    {
+        "name": "De Gröna Lund à Skeppsholmen",
+        "description": "Une promenade côtière pittoresque reliant le parc d'attractions à l'île de Skeppsholmen, avec de belles vues sur le port et la silhouette de la ville."
+    },
+    {
+        "name": "De Skånegatan à Monteliusvägen",
+        "description": "Une charmante randonnée urbaine le long de Monteliusvägen, offrant des vues panoramiques époustouflantes sur la silhouette de Stockholm et le bord de l'eau."
+    },
+    {
+        "name": "Jardin de Rosendal",
+        "description": "Un joli jardin sur Djurgården avec des chemins de promenade, des serres et des espaces café, parfait pour une balade tranquille et profiter des fleurs de saison."
+    }
+]

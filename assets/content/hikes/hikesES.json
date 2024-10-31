@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Djurgården",
+        "description": "En naturskön promenad genom denna frodiga öpark, med vackra vyer över vattnet, trädgårdar och kulturella attraktioner som Vasamuseet och Skansen.",
+        "image": "../assets/images/hike.jpeg"
+    },
+    {
+        "name": "Sörmlandsleden",
+        "description": "En långdistansled som sträcker sig genom fantastiska landskap av skogar, sjöar och skärgårdar, perfekt för en dagsvandring eller ett övernattningsäventyr."
+    },
+    {
+        "name": "Nacka Naturreservat",
+        "description": "Erbjuder ett antal leder genom stillsamma skogar och längs klippiga kuster, idealiskt för vandring, simning och att njuta av naturen bara en kort resa från staden."
+    },
+    {
+        "name": "Kista Gård Naturreservat",
+        "description": "Ett lugnt område med markerade stigar genom frodiga skogar, fält och runt en pittoresk damm, perfekt för en fridfull tillflykt från staden."
+    },
+    {
+        "name": "Tyresta Nationalpark",
+        "description": "Ett skyddat område med gammelskogar och ett nätverk av välmarkerade stigar, utmärkt för vandring och för att uppleva Sveriges naturskönhet."
+    },
+    {
+        "name": "Hagaparken",
+        "description": "En vacker park med promenadstigar, historiska byggnader och härliga sjöutsikter, perfekt för en avkopplande promenad eller picknick."
+    },
+    {
+        "name": "Långholmen",
+        "description": "En lugn ö i Mälaren som erbjuder stigar med natursköna vyer, en sandstrand och historiska platser, idealisk för en avkopplande dagsvandring."
+    },
+    {
+        "name": "Gröna Lund till Skeppsholmen",
+        "description": "En pittoresk kustpromenad som förbinder nöjesparken med ön Skeppsholmen, med vackra vyer över hamnen och stadssilhuetten."
+    },
+    {
+        "name": "Skånegatan till Monteliusvägen",
+        "description": "En charmig stadsvandring längs Monteliusvägen, som erbjuder fantastiska panoramavyer över Stockholms silhuett och vattnet."
+    },
+    {
+        "name": "Rosendals Trädgård",
+        "description": "En härlig trädgård på Djurgården med promenadstigar, växthus och caféområden, perfekt för en avkopplande promenad och för att njuta av säsongens blommor."
+    }
+]

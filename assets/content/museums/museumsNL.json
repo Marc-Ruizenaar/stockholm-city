@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Vasa Museum",
+        "description": "De thuisbasis van het goed bewaarde 17e-eeuwse oorlogsschip Vasa, met tentoonstellingen over de geschiedenis van het schip en de tijd waarin het werd gebouwd.",
+        "image": "https://visitsweden.com/_next/image/?url=https%3A%2F%2Fs3-eu-north-1.amazonaws.com%3A443%2Fpy3.visitsweden.com%2Foriginal_images%2Fnat007063_CMSTemplate_CptFuHp.jpg&w=375&q=60"
+    },
+    {
+        "name": "Skansen",
+        "description": "Het eerste openluchtmuseum ter wereld met historische gebouwen, traditionele ambachten en inheemse dieren uit de Noordse regio."
+    },
+    {
+        "name": "Moderna Museet",
+        "description": "Een museum voor moderne kunst met een indrukwekkende collectie 20e-eeuwse kunst, waaronder werken van Picasso en Dalí."
+    },
+    {
+        "name": "Nationalmuseum",
+        "description": "Het voornaamste kunst- en designmuseum van Zweden, met een rijke verzameling schilderijen, sculpturen en decoratieve kunst."
+    },
+    {
+        "name": "Fotografiska",
+        "description": "Een museum voor hedendaagse fotografie met wisselende tentoonstellingen van zowel gevestigde als opkomende fotografen."
+    },
+    {
+        "name": "ABBA The Museum",
+        "description": "Een interactieve ervaring gewijd aan de iconische Zweedse popgroep, met memorabilia en muzikale belevenissen."
+    },
+    {
+        "name": "Nobel Prize Museum",
+        "description": "Eert de Nobelprijs en zijn laureaten met tentoonstellingen over hun prestaties, gevestigd in de Oude Stad."
+    },
+    {
+        "name": "Swedish History Museum",
+        "description": "Biedt een overzicht van de Zweedse geschiedenis vanaf de Steentijd tot nu, met artefacten, Viking-schatten en meer."
+    },
+    {
+        "name": "Royal Palace (Kungliga Slottet)",
+        "description": "Herbergt verschillende musea, waaronder de Koninklijke Wapenkamer, en is de officiële residentie van de Zweedse monarchie."
+    },
+    {
+        "name": "The Museum of Medieval Stockholm",
+        "description": "Een meeslepende reis door het middeleeuwse verleden van Stockholm, met artefacten, modellen en interactieve displays."
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Vasa Museum",
+        "description": "Home to the well-preserved 17th-century warship Vasa, showcasing the ship's history and the era it represents.",
+        "image": "https://visitsweden.com/_next/image/?url=https%3A%2F%2Fs3-eu-north-1.amazonaws.com%3A443%2Fpy3.visitsweden.com%2Foriginal_images%2Fnat007063_CMSTemplate_CptFuHp.jpg&w=375&q=60"
+    },
+    {
+        "name": "Skansen",
+        "description": "The world’s first open-air museum featuring historic buildings, traditional crafts, and Nordic wildlife."
+    },
+    {
+        "name": "Moderna Museet",
+        "description": "A modern art museum with an impressive collection of 20th-century art, including works by Picasso and Dalí."
+    },
+    {
+        "name": "Nationalmuseum",
+        "description": "Sweden's premier museum of art and design, showcasing a rich collection of paintings, sculptures, and decorative arts."
+    },
+    {
+        "name": "Fotografiska",
+        "description": "A contemporary photography museum with rotating exhibitions featuring both established and emerging photographers."
+    },
+    {
+        "name": "ABBA The Museum",
+        "description": "An interactive experience dedicated to the iconic Swedish pop group, featuring memorabilia and music experiences."
+    },
+    {
+        "name": "Nobel Prize Museum",
+        "description": "Celebrates the Nobel Prize and its laureates with exhibits on their achievements, located in the Old Town."
+    },
+    {
+        "name": "Swedish History Museum",
+        "description": "Covers Sweden’s history from the Stone Age to the present, featuring artifacts, Viking treasures, and more."
+    },
+    {
+        "name": "Royal Palace (Kungliga Slottet)",
+        "description": "Houses several museums, including the Royal Armory, in addition to being the official residence of the Swedish monarchy."
+    },
+    {
+        "name": "The Museum of Medieval Stockholm",
+        "description": "An immersive journey through Stockholm's medieval past, showcasing artifacts, models, and interactive displays."
+    }
+]

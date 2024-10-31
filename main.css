@@ -1,0 +1,25 @@
+  body {
+    font-family: "Manrope", sans-serif;
+  }
+
+  .container-sm {
+    max-width: 800px;
+  }
+
+  .container-md {
+    max-width: 1100px;
+  }
+
+  .text-blue {
+    color: #1A2E5A;
+  }
+
+  .text-lightblue {
+    color: #44ABE0;
+  }
+
+  /* Animation */
+  #language[open] summary svg {
+    transform: rotate(180deg);
+    transition: transform 0.3s ease-in-out;
+  }
