@@ -1,5 +1,5 @@
 function fetchJson() {
-    fetch('../assets/content/restaurantsEN.json')
+    fetch('../assets/content/restaurants/restaurantsEN.json')
     .then((response) => response.json())
     .then((data) => {
 
